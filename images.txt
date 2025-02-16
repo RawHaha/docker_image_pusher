@@ -1,2 +1,4 @@
 nginx
 bitnami/redis
+mysql:8.0
+wordpress
