@@ -3,3 +3,4 @@ bitnami/redis
 mysql:8.0.31
 apache/hadoop:3.3.6
 bitnami/spark:3.5.1
+centos:7
